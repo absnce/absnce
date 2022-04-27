@@ -10,17 +10,17 @@
               /############@            
              /##############@             vex@arch
             @######@**%######@            -----------------
-           @######`     %#####o           Frontend: 7/10
-          @######@       ######%          Backend: 6/1O
-        -@#######h       ######@.`        Python: 8/10
-       /#####h**``       `**%@####@       CSharp: 5/10
+           @######`     %#####o           js: 8/10
+          @######@       ######%          py: 6/10
+        -@#######h       ######@.`        html: 8/10
+       /#####h**``       `**%@####@       c: 7:10
       @H@*`                    `*%#@    
      *`                            `*     info: taken, destroying gacha kids since 2020.
 
 ```
 
 <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/944700400563539989?hideTimestamp=true&idleMessage=im%20cool.&hideBadges=false&animated=true&borderRadius=20&bg=2B2D42&theme=light"/>
+	<img src="https://lanyard-profile-readme.vercel.app/api/944700400563539989?theme=light&hideTimestamp=true&idleMessage=im%20cool.&hideBadges=false&animated=true&borderRadius=20&bg=2B2D42"/>
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=vexlmao&theme=dark&hide_border=true">
 	<br>
