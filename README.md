@@ -1,4 +1,4 @@
-![](https://gothub.com/wagyyuu/wagyyuu/BEE6364-5617-4E2F-829A-76060871C33A.jpeg)
+![](https://github.com/wagyyuu/wagyyuu/BEE6364-5617-4E2F-829A-76060871C33A.jpeg)
 ```css
 [wagyu@arch ~]$ neofetch
 
