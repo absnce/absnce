@@ -1,14 +1,14 @@
 ```css
-[vex@arch ~]$ neofetch
+[wagyu@arch ~]$ neofetch
 
-                    -@                    vex@arch
+                    -@                    wagyu@arch
                    .##@                   -----------------
-                  .####@                  user: vex
+                  .####@                  user: wagyu
                   @#####@                 aka: matt
                 . *######@                dc: https://discord.gg/softaim
-               .##@o@#####@               web: https://ihyvex.cf/
+               .##@o@#####@               web:
               /############@            
-             /##############@             vex@arch
+             /##############@             wagyu@arch
             @######@**%######@            -----------------
            @######`     %#####o           js: 8/10
           @######@       ######%          py: 6/10
