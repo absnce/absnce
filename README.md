@@ -15,7 +15,7 @@
         -@#######h       ######@.`        html: 8/10
        /#####h**``       `**%@####@       c: 4/10
       @H@*`                    `*%#@      creds: @paradox
-     *`                            `*     info: horrible, taken, destroying gacha kids since 2020.
+     *`                            `*     info: horrible, taken, destroying kids since 2020.
 
 ```
 
