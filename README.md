@@ -13,7 +13,7 @@
            @######`     %#####o           js: 8/10
           @######@       ######%          py: 6/10
         -@#######h       ######@.`        html: 8/10
-       /#####h**``       `**%@####@       c: 7:10
+       /#####h**``       `**%@####@       c: 4/10
       @H@*`                    `*%#@      creds: @paradox
      *`                            `*     info: horrible, taken, destroying gacha kids since 2020.
 
