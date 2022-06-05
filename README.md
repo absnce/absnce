@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/951873536702701570/982837626572791808/82E13946-2E83-4092-9E5D-2CE5DCDEE938.gif)
+![](https://cdn.discordapp.com/attachments/951873536702701570/982837986033012746/199834EF-0221-4AE4-A7E4-AE26973D14BD.png)
 ```css
 [void@arch ~]$ neofetch
 
