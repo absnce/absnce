@@ -1,23 +1,14 @@
 ![](https://cdn.discordapp.com/attachments/951873536702701570/982837986033012746/199834EF-0221-4AE4-A7E4-AE26973D14BD.png)
-```css
-[void@arch ~]$ neofetch
-
-                    -@                    void@arch
-                   .##@                   -----------------
-                  .####@                  user: void
-                  @#####@                 aka: matt
-                . *######@                dc: https://discord.gg/softaim
-               .##@o@#####@               web: https://shitdreams.cf
-              /############@            
-             /##############@             void@arch
-            @######@**%######@            -----------------
-           @######`     %#####o           js: 8/10
-          @######@       ######%          py: 6/10
-        -@#######h       ######@.`        html: 8/10
-       /#####h**``       `**%@####@       c: 4/10
-      @H@*`                    `*%#@      creds: @paradox
-     *`                            `*     info: horrible, taken, destroying kids since 2020.
-
+```javascript
+const void = {
+ aka: "matt",
+ discord: "void#9999",
+ knows: "python", "js", "c", "html", "css",
+ selfbot: "ethone.pro",
+ host: "regrets.one",
+ web: "shitdreams.cf",
+ }
+}
 ```
 
 <p align="center">
