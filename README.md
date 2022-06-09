@@ -6,8 +6,7 @@ const void = {
  knows: "python", "js", "c", "html", "css",
  selfbot: "ethone.pro",
  host: "regrets.one",
- web: "shitdreams.cf",
- }
+ web: "shitdreams.cf"
 }
 ```
 
