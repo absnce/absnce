@@ -12,7 +12,7 @@ const void = {
 ```
 
 <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/944700400563539989?theme=dark&hideTimestamp=true&idleMessage=im%20cool.&hideBadges=false&animated=true&borderRadius=20px&bg=2B2D42"/>
+	<img src="https://lanyard-profile-readme.vercel.app/api/944700400563539989?theme=dark&hideTimestamp=true&hideBadges=false&animated=true&borderRadius=20px&bg=2B2D42"/>
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=vexlmao&theme=dark&hide_border=true">
 	<br>
