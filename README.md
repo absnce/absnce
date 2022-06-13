@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/985933359756771341/985933441822511164/67C33DDA-AB8F-4848-8651-4E81AE8C8D4D.gif)
+![]()
 ```javascript
 const miizu = {
  aka: "matt",
