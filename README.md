@@ -1,8 +1,8 @@
-![](https://cdn.discordapp.com/attachments/951873536702701570/982837986033012746/199834EF-0221-4AE4-A7E4-AE26973D14BD.png)
+![]()
 ```javascript
-const void = {
+const miizu = {
  aka: "matt",
- discord: "void#9999",
+ discord: "miizu#9999",
  knows: "python", "js", "c", "html", "css",
  selfbot: "ethone.pro",
  host: "regrets.one",
@@ -11,7 +11,7 @@ const void = {
 ```
 
 <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/944700400563539989?theme=dark&hideTimestamp=true&hideBadges=false&animated=true&borderRadius=20px&bg=1D1D1D"/>
+	<img src="https://lanyard-profile-readme.vercel.app/api/985281262740713562?theme=dark&hideTimestamp=true&hideBadges=false&animated=true&borderRadius=20px&bg=1D1D1D"/>
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=vexlmao&theme=dark&hide_border=true">
 	<br>
