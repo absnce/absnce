@@ -2,7 +2,7 @@
 ```javascript
 const miizu = {
  aka: "matt",
- discord: "miizu#0480",
+ discord: "miizu#0001",
  knows: "python", "js", "c", "html", "css",
  selfbot: "ethone.pro",
  host: "regrets.one",
