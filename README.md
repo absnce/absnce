@@ -1,12 +1,8 @@
-![](https://cdn.discordapp.com/attachments/985933359756771341/986653464811679784/7F711EF8-11CA-4CF8-9C47-0AFDA55EC88A.png)
 ```javascript
-const miizu = {
+const absnce = {
  aka: "matt",
- discord: "miizu#0001",
- knows: "python", "js", "c", "html", "css",
- selfbot: "ethone.pro",
- host: "regrets.one",
- web: "shitdreams.cf"
+ discord: "absnce#0001",
+ knows: "python", "js", "c", "html", "css"
 }
 ```
 
